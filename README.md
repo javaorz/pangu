@@ -1,2 +1,3 @@
-# JavaDesignPatterns/设计模式(java语言)
+#The way to deity / 成神之路
 
+## design-patterns 设计模式
